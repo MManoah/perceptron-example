@@ -1,6 +1,7 @@
 # Perceptron Example
 
 This is a C++ example of a perceptron that was orginally made in Java by The Coding Train.
+
 [The Coding Train Video](https://www.youtube.com/watch?v=ntKn5TPHHAk)
 
 ## Project Overview
