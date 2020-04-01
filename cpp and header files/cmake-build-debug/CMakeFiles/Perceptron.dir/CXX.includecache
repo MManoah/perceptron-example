@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Perceptron.cpp
+Perceptron.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Perceptron.h
+random
+-
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Perceptron.h
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Point.cpp
+Point.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Point.h
+random
+-
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Point.h
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/TrainingValues.cpp
+TrainingValues.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/TrainingValues.h
+chrono
+-
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/TrainingValues.h
+Point.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Point.h
+vector
+-
+
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/main.cpp
+iostream
+-
+Perceptron.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/Perceptron.h
+TrainingValues.h
+C:/Users/Manoah/Documents/GitHub/Perceptron/cpp and header files/TrainingValues.h
+
