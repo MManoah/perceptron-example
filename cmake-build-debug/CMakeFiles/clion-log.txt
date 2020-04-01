@@ -1,0 +1,4 @@
+"D:\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Manoah\Documents\GitHub\Perceptron
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Manoah/Documents/GitHub/Perceptron/cmake-build-debug
