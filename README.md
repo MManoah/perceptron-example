@@ -5,8 +5,8 @@ This is a C++ example of a perceptron that was orginally made in Java by The Cod
 
 ## Project Overview
 
-![](https://i.gyazo.com/68f64b2d58de5a8e1b51f9566f40e5b8.png)
 ![](https://i.gyazo.com/6eeb1de5c2848676d66740371c141851.png)
+![](https://i.gyazo.com/68f64b2d58de5a8e1b51f9566f40e5b8.png)
 
 ## Built With
 
