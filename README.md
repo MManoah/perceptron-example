@@ -3,8 +3,8 @@
 This is a C++ example of a perceptron that was orginally made in Java by The Coding Train. Given an X and a Y value. The perceptron guesses whether that point is above or below the line of Y=X. 
 
 Examples: if x=4 and y=2 : guess=-1 
-          
-          if x=2 and y=4 : guess=1
+
+if x=2 and y=4 : guess=1
 
 [The Coding Train Video](https://www.youtube.com/watch?v=ntKn5TPHHAk)
 
